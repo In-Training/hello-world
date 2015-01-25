@@ -1,2 +1,2 @@
 # hello-world
-just starting
+Hi I am In-Training. You get it? I am training with this program muahaha!
